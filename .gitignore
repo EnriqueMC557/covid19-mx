@@ -161,7 +161,7 @@ cython_debug/
 
 data/.230517COVID19MEXICO.csv
 .idea/*
-*/experiment_*/*
+autokeras_search/experiment_*/*
 notebooks/logs
 
 diccionario_datos_covid19/
